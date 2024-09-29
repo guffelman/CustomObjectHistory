@@ -1,7 +1,3 @@
-Here’s the updated README for the `CustomObjectHistoryService` class without any hyperlinks:
-
----
-
 # CustomObjectHistoryService
 
 The `CustomObjectHistoryService` class provides functionality to insert records into the `Custom_Object_History__c` custom object in Salesforce. It is used to track changes to custom objects by logging the previous and new values of fields, and associating them with an account when applicable.
